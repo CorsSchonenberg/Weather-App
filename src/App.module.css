@@ -1,0 +1,187 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+
+
+.cloudlessnight {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/cloudlessnight.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cloudyday {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/cloudyday.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.cloudynight {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/cloudynight.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.foggyday {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/foggyday.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.foggynight {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/foggynight.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.rainyday {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/rainyday.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.rainynight {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/rainynight.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.snowyday {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/snowyday.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.snowynight {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/snowynight.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.stormyday {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/storymyday.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.stormynight {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/stormynight.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.sunnyday {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/sunnyday.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.defaultBackground {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-position: cover;
+  background-attachment: fixed;
+  background: url("./img/weather.png") center center no-repeat fixed;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
